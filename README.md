@@ -28,6 +28,16 @@ Retail supply chain teams often face:
 Design a **decision-first analytics platform** that enables operations teams to monitor performance, perform root-cause analysis, and optimize inventory flow and delivery reliability.
 
 ---
+## 📁 Project Structure
+
+1. **01_data/** – Raw and processed supply chain datasets  
+2. **02_sql/** – Database schema and transformation logic  
+3. **03_notebooks/** – Data exploration and feature engineering  
+4. **04_powerbi/** – Final BI dashboard  
+5. **05_docs/** – Business requirements and KPI definitions  
+6. **06_screenshots/** – Dashboard visuals
+
+---
 
 ## 🧩 Business Questions Addressed
 - Are deliveries meeting on-time targets? If not, where is the delay happening?
